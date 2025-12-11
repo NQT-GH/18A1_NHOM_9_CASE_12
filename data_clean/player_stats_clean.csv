@@ -1,0 +1,92 @@
+player_id,player_name,team_id,position,goals
+P001,Nguyen Van A,T01,MF,1
+P002,Le Cong Vinh,T01,FW,2
+P003,Pham Thanh Luan,T01,MF,0
+P004,Le Cong Vinh,T01,DF,0
+P005,Le Cong Vinh,T01,DF,2
+P006,Pham Thanh Luan,T01,FW,2
+P007,Tran Van B,T01,DF,2
+P008,Pham Thanh Luan,T01,DF,0
+P009,Hoang Duc,T01,DF,7
+P010,Nguyen Van A,T01,GK,5
+P011,Nguyen Van A,T01,GK,1
+P012,Nguyen Van A,T01,GK,7
+P013,Tran Van B,T01,GK,1
+P014,Tran Van B,T01,GK,3
+P015,Pham Thanh Luan,T02,GK,3
+P016,Nguyen Van A,T02,FW,5
+P017,Nguyen Van A,T02,DF,1
+P018,Hoang Duc,T02,FW,3
+P019,Nguyen Van A,T02,FW,1
+P020,Nguyen Van A,T02,MF,3
+P021,Tran Van B,T02,MF,2
+P022,Hoang Duc,T02,DF,4
+P023,Nguyen Van A,T02,DF,3
+P024,Pham Thanh Luan,T03,FW,4
+P025,Hoang Duc,T03,GK,0
+P026,Tran Van B,T03,DF,4
+P027,Tran Van B,T03,FW,5
+P028,Le Cong Vinh,T03,FW,7
+P029,Le Cong Vinh,T03,MF,4
+P030,Le Cong Vinh,T03,GK,0
+P031,Pham Thanh Luan,T03,GK,7
+P032,Hoang Duc,T03,MF,2
+P033,Hoang Duc,T03,FW,2
+P034,Tran Van B,T03,MF,7
+P035,Hoang Duc,T04,GK,7
+P036,Hoang Duc,T04,GK,3
+P037,Tran Van B,T04,DF,2
+P038,Nguyen Van A,T04,DF,0
+P039,Tran Van B,T04,MF,1
+P040,Hoang Duc,T04,MF,2
+P041,Pham Thanh Luan,T04,GK,0
+P042,Pham Thanh Luan,T04,FW,4
+P043,Tran Van B,T04,DF,3
+P044,Pham Thanh Luan,T04,DF,5
+P045,Nguyen Van A,T04,MF,5
+P046,Le Cong Vinh,T04,MF,4
+P047,Nguyen Van A,T04,GK,2
+P048,Pham Thanh Luan,T04,FW,2
+P049,Pham Thanh Luan,T05,FW,3
+P050,Le Cong Vinh,T05,DF,1
+P051,Pham Thanh Luan,T05,GK,3
+P052,Nguyen Van A,T05,DF,7
+P053,Le Cong Vinh,T05,GK,2
+P054,Pham Thanh Luan,T05,DF,0
+P055,Tran Van B,T05,FW,2
+P056,Pham Thanh Luan,T05,GK,7
+P057,Tran Van B,T05,DF,3
+P058,Le Cong Vinh,T06,GK,7
+P059,Nguyen Van A,T06,GK,3
+P060,Hoang Duc,T06,GK,4
+P061,Le Cong Vinh,T06,FW,4
+P062,Pham Thanh Luan,T06,GK,0
+P063,Hoang Duc,T06,MF,3
+P064,Hoang Duc,T06,GK,7
+P065,Tran Van B,T06,MF,2
+P066,Pham Thanh Luan,T07,MF,4
+P067,Le Cong Vinh,T07,GK,5
+P068,Tran Van B,T07,GK,3
+P069,Hoang Duc,T07,DF,0
+P070,Pham Thanh Luan,T07,GK,1
+P071,Le Cong Vinh,T07,GK,3
+P072,Hoang Duc,T07,MF,5
+P073,Pham Thanh Luan,T07,FW,5
+P074,Nguyen Van A,T07,FW,0
+P075,Hoang Duc,T07,GK,2
+P076,Le Cong Vinh,T07,GK,4
+P077,Pham Thanh Luan,T07,GK,3
+P078,Le Cong Vinh,T07,FW,2
+P079,Tran Van B,T08,DF,0
+P080,Tran Van B,T08,FW,0
+P081,Le Cong Vinh,T08,MF,2
+P082,Nguyen Van A,T08,FW,1
+P083,Hoang Duc,T08,MF,2
+P084,Pham Thanh Luan,T08,MF,1
+P085,Le Cong Vinh,T08,DF,2
+P086,Tran Van B,T08,MF,2
+P087,Pham Thanh Luan,T08,FW,0
+P088,Le Cong Vinh,T08,DF,5
+P089,Le Cong Vinh,T08,DF,0
+P090,Pham Thanh Luan,T08,MF,1
+P091,Tran Van B,T08,DF,1

@@ -1,0 +1,92 @@
+player_id,player_name,team_id,position,goals
+P001,Nguyen Van A, T01,mf ,1
+P002,LE cong  Vinh, T01,FW,2
+P003,pham thanh  Luan, T01,mf ,-1
+P004,LE cong  Vinh, T01,df ,0
+P005,LE cong  Vinh, T01,df ,two
+P006,pham thanh  Luan, T01, fw,2
+P007,  Tran  van B, T01,DF,2
+P008,pham thanh  Luan, T01,df ,0
+P009,Hoang  duc, T01,DF,7
+P010,Nguyen Van A, T01,GK,5
+P011,Nguyen Van A, T01, gk ,1
+P012,Nguyen Van A, T01, gk ,7
+P013,  Tran  van B, T01,GK,1
+P014,  Tran  van B, T01, gk ,3
+P015,pham thanh  Luan, T02,GK,3
+P016,Nguyen Van A, T02,FW,5
+P017,Nguyen Van A, T02,DF,1
+P018,Hoang  duc, T02,FW,3
+P019,Nguyen Van A, T02, fw,1
+P020,Nguyen Van A, T02,mf ,3
+P021,  Tran  van B, T02,MF,two
+P022,Hoang  duc, T02,df , 4 
+P023,Nguyen Van A, T02,df ,3
+P024,pham thanh  Luan, T03,FW, 4 
+P025,Hoang  duc, T03,GK,-1
+P026,  Tran  van B, T03,df , 4 
+P027,  Tran  van B, T03, fw,5
+P028,LE cong  Vinh, T03,FW,7
+P029,LE cong  Vinh, T03,MF, 4 
+P030,LE cong  Vinh, T03,GK,0
+P031,pham thanh  Luan, T03,GK,7
+P032,Hoang  duc, T03,MF,2
+P033,Hoang  duc, T03, fw,two
+P034,  Tran  van B, T03,mf ,7
+P035,Hoang  duc,T04 , gk ,7
+P036,Hoang  duc,T04 ,GK,3
+P037,  Tran  van B,T04 ,df ,two
+P038,Nguyen Van A,T04 ,df ,0
+P039,  Tran  van B,T04 ,MF,1
+P040,Hoang  duc,T04 ,MF,two
+P041,pham thanh  Luan,T04 , gk ,-1
+P042,pham thanh  Luan,T04 ,FW, 4 
+P043,  Tran  van B,T04 ,DF,3
+P044,pham thanh  Luan,T04 ,df ,5
+P045,Nguyen Van A,T04 ,MF,5
+P046,LE cong  Vinh,T04 ,mf , 4 
+P047,Nguyen Van A,T04 , gk ,2
+P048,pham thanh  Luan,T04 , fw,two
+P049,pham thanh  Luan,T05,FW,3
+P050,LE cong  Vinh,T05,df ,1
+P051,pham thanh  Luan,T05, gk ,3
+P052,Nguyen Van A,T05,DF,7
+P053,LE cong  Vinh,T05, gk ,two
+P054,pham thanh  Luan,T05,DF,-1
+P055,  Tran  van B,T05, fw,2
+P056,pham thanh  Luan,T05,GK,7
+P057,  Tran  van B,T05,DF,3
+P058,LE cong  Vinh,T06 ,GK,7
+P059,Nguyen Van A,T06 ,GK,3
+P060,Hoang  duc,T06 ,GK, 4 
+P061,LE cong  Vinh,T06 , fw, 4 
+P062,pham thanh  Luan,T06 ,GK,0
+P063,Hoang  duc,T06 ,MF,3
+P064,Hoang  duc,T06 ,GK,7
+P065,  Tran  van B,T06 ,MF,2
+P066,pham thanh  Luan,T07,mf , 4 
+P067,LE cong  Vinh,T07,GK,5
+P068,  Tran  van B,T07, gk ,3
+P069,Hoang  duc,T07,DF,0
+P070,pham thanh  Luan,T07,GK,1
+P071,LE cong  Vinh,T07,GK,3
+P072,Hoang  duc,T07,mf ,5
+P073,pham thanh  Luan,T07, fw,5
+P074,Nguyen Van A,T07, fw,0
+P075,Hoang  duc,T07,GK,two
+P076,LE cong  Vinh,T07,GK, 4 
+P077,pham thanh  Luan,T07, gk ,3
+P078,LE cong  Vinh,T07,FW,two
+P079,  Tran  van B, T08,DF,0
+P080,  Tran  van B, T08, fw,-1
+P081,LE cong  Vinh, T08,mf ,2
+P082,Nguyen Van A, T08,FW,1
+P083,Hoang  duc, T08,mf ,two
+P084,pham thanh  Luan, T08,mf ,1
+P085,LE cong  Vinh, T08,DF,two
+P086,  Tran  van B, T08,mf ,two
+P087,pham thanh  Luan, T08,FW,0
+P088,LE cong  Vinh, T08,DF,5
+P089,LE cong  Vinh, T08,DF,-1
+P090,pham thanh  Luan, T08,MF,1
+P091,  Tran  van B, T08,DF,1
