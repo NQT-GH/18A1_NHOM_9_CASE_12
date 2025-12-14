@@ -5,6 +5,8 @@
 # Phân công push lên github
 
 **CHỈ COPY 3 LỆNH ĐỂ TƯƠNG ỨNG ĐỂ PUSH, KHÔNG `git add .` TẤT CẢ**
+> [!TIP]
+> **Đầu tiên sử dụng `git pull` để cập nhật các file**
 
 > [!NOTE]
 > **Đăng: Task 3**
