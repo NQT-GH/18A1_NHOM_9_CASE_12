@@ -5,6 +5,20 @@
 # Phân công push lên github
 
 **CHỈ COPY 3 LỆNH ĐỂ TƯƠNG ỨNG ĐỂ PUSH, KHÔNG `git add .` TẤT CẢ**
+> [!TIP]
+> **Đầu tiên sử dụng `git pull` để cập nhật các file**
+
+> [!NOTE]
+> **Ngọc: Task 2**
+> ```
+> git add task02_query.ipynb
+> ```
+> ```
+> git commit -m "Task 2: Queries & Statistics"
+> ```
+> ```
+> git push origin main
+> ```
 
 > [!NOTE]
 > **Đăng: Task 3**
